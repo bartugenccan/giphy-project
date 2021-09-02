@@ -5,4 +5,4 @@
       <img width="1000"  alt="Coin" src="./public/images/Trending.PNG"  />
       <h3>
         Demo :
-        <a href="https://crypto-tracker-epmjn00l8-bartugenccan.vercel.app/">
+        <a href="https://giphy-project-a2jayqm33-bartugenccan.vercel.app/">
