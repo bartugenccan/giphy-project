@@ -4,5 +4,4 @@
       <img width="1000"  alt="Coin" src="./public/images/SearchedGifs.PNG"  />
       <img width="1000"  alt="Coin" src="./public/images/Trending.PNG"  />
       <h3>
-        Demo :
-        <a href="https://giphy-project-a2jayqm33-bartugenccan.vercel.app/">
+        Demo : https://giphy-project-a2jayqm33-bartugenccan.vercel.app
